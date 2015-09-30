@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀詩質疑
-#+DATE: 2015-09-23 09:37:10
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:06:52.183157
+#+PROPERTY: ID KR1c0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1c0059_WYG_004-1a>¶
 欽定四庫全書¶
 　讀詩質疑卷四¶
@@ -506,4 +508,3 @@
 　　　也朱子亦從蘇氏分四章¶
 　鄘國十篇二十九章百七十六句¶
 　讀詩質疑卷四¶
-

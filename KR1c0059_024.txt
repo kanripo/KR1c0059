@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀詩質疑
-#+DATE: 2015-09-23 09:37:10
-#+PROPERTY: JUAN 24
+#+DATE: 2015-08-24 22:06:52.613656
+#+PROPERTY: ID KR1c0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十四上
 <pb:KR1c0059_WYG_024-1a>¶
 欽定四庫全書¶
 　讀詩質疑卷二十四上¶
@@ -668,6 +670,7 @@
 　¶
 　¶
 　讀詩質疑巻二十四上¶
+#+PROPERTY: JUAN 卷二十四下
 <pb:KR1c0059_WYG_024-38a>¶
 欽定四庫全書¶
 　讀詩質疑卷二十四下¶
@@ -1280,4 +1283,3 @@
 　文王之什十篇六十六章四百一十四句¶
 　¶
 　讀詩質疑卷二十四下¶
-
